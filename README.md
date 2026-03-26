@@ -33,7 +33,7 @@ pip install torch torchvision numpy matplotlib scikit-learn
 
 ## Running the Code
 1. Clone the repository:
-git clone <repository-link>
+git clone https://github.com/Sumithbhargav/machine_learning_assignment.git
 
 2. Open the notebook:
 jupyter notebook sumith_ml_code.ipynb
